@@ -21,11 +21,11 @@
 
 **Cocina:**
 
-<img width="1020" height="509" alt="Captura de pantalla 2025-08-04 082857" src="https://github.com/user-attachments/assets/1170badc-74cc-4291-889d-befbe60e068f" />
+<img width="558" height="316" alt="Captura de pantalla 2025-08-04 082857" src="https://github.com/user-attachments/assets/1170badc-74cc-4291-889d-befbe60e068f" />
 
 **Baño:**
 
-<img width="1273" height="715" alt="Captura de pantalla 2025-08-04 083150" src="https://github.com/user-attachments/assets/424d6ed3-686f-4ae1-8057-7b8dd6c3613d" />
+<img width="558" height="316" alt="Captura de pantalla 2025-08-04 083150" src="https://github.com/user-attachments/assets/424d6ed3-686f-4ae1-8057-7b8dd6c3613d" />
 ---
 
 ## -🛠️ 𝓣𝓮𝓬𝓷𝓸𝓵𝓸𝓰í𝓪𝓼 𝓤𝓽𝓲𝓵𝓲𝔃𝓪𝓭𝓪𝓼
