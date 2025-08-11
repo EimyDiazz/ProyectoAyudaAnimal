@@ -44,7 +44,7 @@ En nuestro juego podrás apreciar tres escenarios, ellos son:
 - Godot Engine (Programación)
   
   <img width="1199" height="623" alt="Captura de pantalla 2025-08-04 080851" src="https://github.com/user-attachments/assets/07766006-518a-480a-9d09-3e511eb1b521" />
-- Enlace a la página para descargar: https://godotengine.org/es/
+- Enlace a la página de descarga: https://godotengine.org/es/
 ---
 ## ⚙️ Instalación
 ### Requisitos previos
