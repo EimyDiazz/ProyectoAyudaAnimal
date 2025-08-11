@@ -13,7 +13,7 @@
 ### 📸 𝓒𝓪𝓹𝓽𝓾𝓻𝓪𝓼
 **Menú:**
 
-<img width="1246" height="706" alt="Captura de pantalla 2025-08-04 082137" src="https://github.com/user-attachments/assets/d751a0ed-a482-4d92-bb5d-62e256a46c82" />
+<img width="558" height="316" alt="Captura de pantalla 2025-08-04 082137" src="https://github.com/user-attachments/assets/d751a0ed-a482-4d92-bb5d-62e256a46c82" />
 
 **Patio:**
 
