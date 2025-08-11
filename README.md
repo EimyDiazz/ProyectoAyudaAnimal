@@ -35,14 +35,16 @@ En nuestro juego podrás apreciar tres escenarios, ellos son:
 
 **Frontend:**
 - Pixil Art (Diseño y arte)
-  Enlace de acceso: https://www.pixilart.com/
+  
   <img width="1905" height="909" alt="Captura de pantalla 2025-08-04 082712" src="https://github.com/user-attachments/assets/3cb413e3-f66b-41f5-aec5-ec9b0c11e524" />
+- Enlace de acceso: https://www.pixilart.com/
+
 
 **Backend:**
 - Godot Engine (Programación)
-  Enlace a la página para descargar: https://godotengine.org/es/
+  
   <img width="1199" height="623" alt="Captura de pantalla 2025-08-04 080851" src="https://github.com/user-attachments/assets/07766006-518a-480a-9d09-3e511eb1b521" />
-
+- Enlace a la página para descargar: https://godotengine.org/es/
 ---
 ## ⚙️ Instalación
 ### Requisitos previos
