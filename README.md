@@ -15,7 +15,9 @@
 
 <img width="558" height="316" alt="Captura de pantalla 2025-08-04 082137" src="https://github.com/user-attachments/assets/d751a0ed-a482-4d92-bb5d-62e256a46c82" />
 
->En nuestro juego podrás apreciar tres escenarios, ellos son: 
+
+En nuestro juego podrás apreciar tres escenarios, ellos son: 
+
 **Patio:**
 
 <img width="558" height="316" alt="Imagen1" src="https://github.com/user-attachments/assets/4291d2b8-ddfb-4fa2-89b2-27ba0d3af832" />
