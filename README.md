@@ -6,9 +6,9 @@
 ![Estado](https://img.shields.io/badge/estado-en%20prototipo-yellow)  
  
 ## 🎯 𝓞𝓫𝓳𝓮𝓽𝓲𝓿𝓸 𝓭𝓮𝓵 𝓟𝓻𝓸𝔂𝓮𝓬𝓽𝓸
-- La falta de conocimiento de los dueños respecto a los cuidados de sus mascotas.
-- Niños de 8 a 11 años
-- Tiene minijuegos que ayudaran al usuario a aprender de forma dinámica el cuidado de su mascota
+- Por medio de este proyecto se busca disminuir la falta de conocimiento de los dueños respecto a los cuidados de sus mascotas.
+- Está dirgido a un público conformado por niños de 8 a 11 años
+- Nuestro juego está conformado por diversos minijuegos que ayudarán al usuario a aprender de forma dinámica el cuidado de su mascota
 ---
 ### 📸 𝓒𝓪𝓹𝓽𝓾𝓻𝓪𝓼
 **Menú:**
