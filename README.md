@@ -1,4 +1,4 @@
-#💕😺𝓐𝔂𝓾𝓭𝓪 𝓐𝓷𝓲𝓶𝓪𝓵😺💕
+## 💕😺𝓐𝔂𝓾𝓭𝓪 𝓐𝓷𝓲𝓶𝓪𝓵😺💕
 >Ayuda Animal es un videojuego educativo con estilo Pixel art que fomenta el aprendizaje sobre el cuidado responsable de perros y gatos en niños de 8 a 11 años
 <img width="558" height="316" alt="Imagen1" src="https://github.com/user-attachments/assets/96d17fc2-fdc0-40ed-8830-0dc28634eda8" />
 
