@@ -49,4 +49,5 @@ En nuestro juego podrás apreciar tres escenarios, ellos son:
 ## ⚙️ Instalación
 ### Requisitos previos
 - Pc o laptop
+- Instalar Godot (por medio del siguiente link: https://godotengine.org/es/)
 - Una actitud positiva
