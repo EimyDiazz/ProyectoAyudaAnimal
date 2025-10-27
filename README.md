@@ -2,6 +2,7 @@
 <img width="300" height="300" alt = "Captura de pantalla 2025-10-27 122903.png" src= "https://github.com/EimyDiazz/ProyectoAyudaAnimal/blob/a06dc06d05ed41daf16e5458167c6325e0ea1852/Captura%20de%20pantalla%202025-10-27%20122903.png"/>
 
 Ayuda Animal es un videojuego educativo con estilo Pixel art que fomenta el aprendizaje sobre el cuidado responsable de perros y gatos en niños de 8 a 11 años
+
 <img width="558" height="316" alt="Imagen1" src="https://github.com/user-attachments/assets/96d17fc2-fdc0-40ed-8830-0dc28634eda8" />
 
 ![Versión](https://img.shields.io/badge/versión-1.0.0-blue)  
